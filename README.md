@@ -1,3 +1,3 @@
 # alx-zero_day
-I am now a ALX Student, this is my first repository as a full-stack engineer
+I am now an ALX Student, this is my first repository as a full-stack engineer
 My first readme
